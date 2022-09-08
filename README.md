@@ -30,30 +30,47 @@ version- macOS Monterey Version 12.5.1 (Build 21G83)
 # What works-
 
 -touchpad with buttons
+
 -sleep and wake
+
 -iGPU acceleration
+
 -HDMI 
+
 -Ethernet
+
 -power management
+
 -all usb 3.0 ports and 2.0 ports
+
 -keyboard
+
 -wifi (intel 8265NGW)
+
 -bluetooth
+
 -usb c port
+
 -webcam
--mic
+
+-microphone
+
 -speakers
+
 -headphone jack
+
 -sd card slot
 
-#not working
+# Not working
 
 -Airdrop
 
 # Not tested
 
 -WWAN port
+
 -Thunderbolt port
+
 -iservices (imessege)
 
 # IMPORTANT
