@@ -1,7 +1,7 @@
 # DELL-latitude-7390-hackintosh-monterey
 
 Hi y'all this is my dell latitude 7390 hackintosh monterey build
-Based on opencore v0.8.4
+Based on opencore v0.8.4.
 pretty much everything works
 
 
