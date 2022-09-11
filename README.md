@@ -76,9 +76,12 @@ version- macOS Monterey Version 12.5.1 (Build 21G83)
 # IMPORTANT
 
 CFGlock needs to be unlocked 
+ 
 CFGlock offset is 0x52D
 you have to unlock it manually from modGRUBshell see dortania guide for more details
-alcid in config.plist NVRAM -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -> boot-args -- alcid=<appropriate layout id according to your codec on https://github.com/acidanthera/applealc/wiki/supported-codecs >
-if you are having issues with inbuit-speaker or headphones connnected through audio jack try changing the boot-args 
+
+if you are having issues with inbuit-speaker or headphones connnected through audio jack try changing the boot-args alcid in config.plist 
+
+NVRAM -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -> boot-args -- alcid= < appropriate layout id according to your codec on https://github.com/acidanthera/applealc/wiki/supported-codecs >
 
 you have to generate your own smbios details and place them in your config.plist
