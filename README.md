@@ -17,11 +17,16 @@ but the touchscreen might not work because i havent mapped it
 # Specs
 
 CPU- Intel(R) Core (TM) 15-8350U CPU @ 1.70GHz
+
 GPU- Intel HD Graphics 620
+
 RAM- 16.00 GB
+
 WIFI-(intel 8265NGW)
+
 Intel Generation- Kaby Lake
 
+audio- realtek ALC265/ALC3246
 # MacOs verison
 
 Model identifier- MacBookPro15,4
