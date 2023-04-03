@@ -1752,8 +1752,8 @@
 				<string></string>
 				<key>Comment</key>
 				<string></string>
-				<key>Disabled</key>
-				<true/>
+				<key>Enabled</key>
+				<false/>
 				<key>Path</key>
 				<string>AudioDxe.efi</string>
 			</dict>
